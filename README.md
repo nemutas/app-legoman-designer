@@ -3,7 +3,7 @@
 LEGO 人形の色や質感をデザインするアプリケーションです。<br>
 React Three Fiber（React 用の Three.js ライブラリ） 自体の学習と、Blender でモデリングしたデータの導入方法を学習するために作成しました。
 
-https://nemutas.github.io/rtf-legoman-design/
+https://nemutas.github.io/app-legoman-designer/
 
 ![application](https://user-images.githubusercontent.com/46724121/127747319-90b5c581-5639-48de-80b2-7c8c0d36becb.png)
 
