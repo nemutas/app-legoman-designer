@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/app-legoman-designer/static/css/main.7a20979b.chunk.css",
-    "main.js": "/app-legoman-designer/static/js/main.97fb1907.chunk.js",
-    "main.js.map": "/app-legoman-designer/static/js/main.97fb1907.chunk.js.map",
+    "main.js": "/app-legoman-designer/static/js/main.808a3607.chunk.js",
+    "main.js.map": "/app-legoman-designer/static/js/main.808a3607.chunk.js.map",
     "runtime-main.js": "/app-legoman-designer/static/js/runtime-main.178942f2.js",
     "runtime-main.js.map": "/app-legoman-designer/static/js/runtime-main.178942f2.js.map",
-    "static/js/2.e6010d28.chunk.js": "/app-legoman-designer/static/js/2.e6010d28.chunk.js",
-    "static/js/2.e6010d28.chunk.js.map": "/app-legoman-designer/static/js/2.e6010d28.chunk.js.map",
+    "static/js/2.76b57977.chunk.js": "/app-legoman-designer/static/js/2.76b57977.chunk.js",
+    "static/js/2.76b57977.chunk.js.map": "/app-legoman-designer/static/js/2.76b57977.chunk.js.map",
     "static/js/3.ffa5030c.chunk.js": "/app-legoman-designer/static/js/3.ffa5030c.chunk.js",
     "static/js/3.ffa5030c.chunk.js.map": "/app-legoman-designer/static/js/3.ffa5030c.chunk.js.map",
     "index.html": "/app-legoman-designer/index.html",
     "static/css/main.7a20979b.chunk.css.map": "/app-legoman-designer/static/css/main.7a20979b.chunk.css.map",
-    "static/js/2.e6010d28.chunk.js.LICENSE.txt": "/app-legoman-designer/static/js/2.e6010d28.chunk.js.LICENSE.txt"
+    "static/js/2.76b57977.chunk.js.LICENSE.txt": "/app-legoman-designer/static/js/2.76b57977.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.178942f2.js",
-    "static/js/2.e6010d28.chunk.js",
+    "static/js/2.76b57977.chunk.js",
     "static/css/main.7a20979b.chunk.css",
-    "static/js/main.97fb1907.chunk.js"
+    "static/js/main.808a3607.chunk.js"
   ]
 }
